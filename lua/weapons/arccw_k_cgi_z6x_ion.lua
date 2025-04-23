@@ -61,10 +61,10 @@ SWEP.Num = 1
 SWEP.Firemode = 1
 SWEP.Firemodes = {
     {
-		Mode = 1,
+		Mode = 2,
     },
     {
-		Mode = 2,
+		Mode = 1,
     },
 	{
 		Mode = 0,
